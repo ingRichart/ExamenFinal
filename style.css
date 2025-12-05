@@ -3,7 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+body{
+    background: #3b3131;
+}
 h1{
     text-align: center;
     margin-top: 30px;
@@ -33,6 +35,6 @@ img{
 img:hover{
     transform: scale(1.1);
     transition: all 0.3s ease-in-out;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 8px rgba(219, 13, 13, 0.27);
     border-radius: 10px;
 }
